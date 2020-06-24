@@ -1,2 +1,1 @@
-# epam-week-5
-epam week 5
+# hometask5
